@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="http://linkedin.com/in/mena-mansour-709235262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamahmedsalah" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/menamansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hossamahmedsalah" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/menamansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"  height="30" width="40" /></a>
 
 </p>
 
