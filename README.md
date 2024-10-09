@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Machine Learning🤖 and Data Science0️⃣1️⃣ 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with python , libraries(numpy,pands,matplotlib,seaborn)
+- 💬 Ask me about my experience with python , libraries(numpy,pandas,matplotlib,seaborn,sklearn,plotly)
 
 
 
